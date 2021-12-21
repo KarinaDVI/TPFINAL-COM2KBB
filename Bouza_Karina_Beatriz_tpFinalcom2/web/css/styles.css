@@ -1,0 +1,43 @@
+
+
+
+.entries {color: black;
+      
+}
+
+.form {
+        
+
+        border: 1px solid;
+        border-color: grey;
+        font-size: 20px;
+        
+}
+td{
+    align:center
+          
+}
+
+tr{
+    border: 1px solid green;
+    border-color: green;
+    
+}
+
+.table{overflow: scroll;
+    
+}
+table{
+    
+     overflow:scroll;
+     min-height:200px;
+     max-width:2000px;
+     
+     border:1px solid black;
+       background:grey;
+}
+.centered{
+    width: 500px; 
+    margin: 0 auto;
+}
+
